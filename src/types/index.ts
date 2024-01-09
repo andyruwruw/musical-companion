@@ -1,0 +1,37 @@
+/**
+ * Types of song sections.
+ */
+export type SongSectionType = 'verse'
+  | 'chorus'
+  | 'bridge'
+  | 'intro'
+  | 'outro';
+
+export type ChordType = 'maj'
+  | 'min'
+  | 'aug'
+  | 'dim'
+  | 'dim7'
+  | 'm7b5'
+  | 'min7'
+  | 'mmaj7'
+  | 'dom7'
+  | 'maj7'
+  | 'aug7'
+  | 'augmaj7'
+  | '9'
+  | '11'
+  | '13'
+  | '7#5'
+  | '7b9'
+  | '7#9'
+  | '7#11'
+  | '7b13'
+  | 'add9'
+  | 'add11'
+  | '6'
+  | '6/9'
+  | '7/6'
+  | 'sus2'
+  | 'sus4'
+  | '9sus4';

@@ -1,0 +1,21 @@
+.v-btn,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+span {
+  font-family: 'Rubik', sans-serif;
+}
+
+.v-text-field.v-text-field--enclosed:hover {
+  transition: all .3s ease-in-out;
+  background-color: #F4F4F4 !important;
+}
+
+.v-input__slot fieldset {
+  border-color: transparent !important;
+}

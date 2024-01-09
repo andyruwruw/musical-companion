@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50"
+	 xml:space="preserve">
+<polygon style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	48,25.57 48,31.35 32,40.59 2,23.27 2,19.81 13,13.46 13,11.15 18,8.26 "/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	13,11.15 43.001,28.464 48,25.57 "/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="43.001" y1="28.464" x2="43" y2="34.238"/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	38.002,27.887 43,30.772 32,37.124 2,19.81 "/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="32" y1="37.124" x2="32" y2="40.59"/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="13" y1="13.46" x2="16.009" y2="15.19"/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	17.999,14.029 12,17.494 11.998,19.802 13.999,20.957 16,19.804 "/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	12,17.494 14,18.649 20,15.184 20.001,17.494 "/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="14" y1="18.649" x2="13.999" y2="20.957"/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	28,19.803 22.001,23.269 21.999,25.576 24,26.731 26.001,25.578 "/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	22.001,23.269 24.001,24.423 30.001,20.958 30.002,23.268 "/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="24.001" y1="24.423" x2="24" y2="26.731"/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	26.001,25.578 28.001,26.733 34.001,23.267 34.002,25.577 "/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="28.001" y1="26.733" x2="28" y2="29.04"/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	21.999,16.338 16,19.804 15.998,22.111 17.999,23.266 24.001,19.803 24,17.493 "/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	36,24.422 30.001,27.887 29.999,30.194 32,31.35 38.002,27.887 38.001,25.577 "/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	16,19.804 18,20.959 24,17.493 "/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="18" y1="20.959" x2="17.999" y2="23.266"/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="32.001" y1="29.042" x2="32" y2="31.35"/>
+<polyline style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	32,22.112 26,25.577 26,27.887 28,29.04 30.001,27.887 32.001,29.042 38.001,25.577 "/>
+<line style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="24.001" y1="19.803" x2="26.002" y2="20.957"/>
+<path d="M18,8.26l30,17.31v5.78l-16,9.24L2,23.27v-3.46l11-6.35v-2.31L18,8.26 M18,7.105l-0.5,0.289l-5,2.89L12,10.573v0.577v1.733
+	L1.5,18.944L1,19.233v0.577v3.46v0.577l0.5,0.289l30,17.32l0.5,0.289l0.5-0.289l16-9.24l0.5-0.289V31.35v-5.78v-0.578l-0.5-0.289
+	l-30-17.31L18,7.105L18,7.105z"/>
+</svg>
